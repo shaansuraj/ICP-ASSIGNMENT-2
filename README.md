@@ -290,14 +290,14 @@ QUESTION 13
 
 //        QUESTION 24
 
-        int a = Integer.parseInt(args[0]);
+  // int a = Integer.parseInt(args[0]);
 //        int b = Integer.parseInt(args[1]);
 //        int c1 = a + (int)((b-a)*Math.random());
 //        int c2 = a + (int)((b-a)*Math.random());
 //        int c3 = a + (int)((b-a)*Math.random());
 //        int c4 = a + (int)((b-a)*Math.random());
 //        int c5 = a + (int)((b-a)*Math.random());
-//        System.out.println((c1 + c2 + c3 + c4 + c5)/5);
+//        System.out.println(“Average is “ + ((c1 + c2 + c3 + c4 + c5)/5));
 //        int min = Math.min(c1 , c2);
 //        min = Math.min(min , c3);
 //        min = Math.min(min , c4);
@@ -308,8 +308,7 @@ QUESTION 13
 //        max = Math.max(max , c5);
 //        System.out.println("Minimum value is = " + min);
 //        System.out.println("Maximum value is = " + max);
-//        System.out.println("Minimum value is = " + min);
-//        System.out.println("Maximum value is = " + max);
+
 
 
 
